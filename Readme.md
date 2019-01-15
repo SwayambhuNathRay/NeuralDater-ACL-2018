@@ -122,3 +122,7 @@ For getting temporal graph of new documents. The following steps need to be foll
   url = "http://aclweb.org/anthology/P18-1149"
 }
 ```
+
+### NB:
+
+* Source code can also be found at [MALL Lab](https://github.com/malllabiisc/NeuralDater). This is just a copy.
